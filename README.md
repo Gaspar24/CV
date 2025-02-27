@@ -20,10 +20,13 @@ manage complex projects, including shell development, graphical programming, and
 Education
 42 Wolfsburg
 Software Development Program
-•
 •Start Date: November 2023
-Core Skills: C, C++, Algorithm Design, Problem Solving
-•Object Oriented Programming
+
+Core Skills: C, C++
+  Algorithm Design, Problem Solving
+  •Object Oriented Programming
+
+
 “Latcu Voda” High School, Romania
 High School Diploma
 • September 2016 – June 2020
@@ -34,11 +37,7 @@ Accredited by the Romanian State, 2022
 •
 Technologies: HTML5, CSS, JavaScript, React
 Technical Skills
-•
-•
-•
-•
-•
+
 Programming Languages: C, C++, JavaScript, Python
 Front-End Technologies: HTML5, CSS, React
 Back-End/Systems: Unix/Linux systems, Shell scripting, Network Programming
